@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1st Workshop on 6G Enablers: Satellite, Qualitative and Semantic Communications
+title: 1st Workshop on 6G Enablers - Satellite, Qualitative and Semantic Communications
 ---
 <!-- <h1 style="text-align: center;">1st Workshop on New IP and Beyond</h1> -->
 
