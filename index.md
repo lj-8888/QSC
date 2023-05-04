@@ -9,7 +9,7 @@ The *Call for Papers* is now open for '6G Enablers' workshop. It is organized by
 
 More information about the conference at [ICNP-23](https://icnp23.cs.ucr.edu)
 
-##### [New and Beyond: Program](program.html)
+
 ##### [6G Enablers Workshop: Call for Papers](icnpcfp.html)
 
 
